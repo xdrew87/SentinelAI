@@ -3,6 +3,12 @@
 **Commercial-Grade DFIR & Threat Intelligence Desktop Application**
 
 SentinelAI is a PySide6-based desktop tool for Digital Forensics and Incident Response (DFIR), integrating AI-powered analysis, threat intelligence, and reporting into a single workflow.
+---
+
+
+## ScreenShot
+
+<img width="1406" height="934" alt="Screenshot_2026-07-19_23-13-11" src="https://github.com/user-attachments/assets/a22ecb14-9047-411a-96be-fc982c009948" />
 
 ---
 
